@@ -10,3 +10,4 @@ sse_starlette
 langchain_groq
 bs4
 faiss-cpu
+pypdf
